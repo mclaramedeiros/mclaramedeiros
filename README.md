@@ -2,7 +2,6 @@
 <p>About me</p>
 <li>:technologist: I'm a full stack web development student at TRYBE.</li>
 <li>:brazil: I'm from João Pessoa, PB - Brazil.</li>
-<li>:atom: I'm currently learning MySQL.</li>
 
  ##
 
