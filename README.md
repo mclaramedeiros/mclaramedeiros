@@ -5,7 +5,7 @@
 
 <p>About me</p>
 <p>I am recently graduating in Web Development at Trybe looking for opportunities to improve my knowledge in technologies I already know and can learn.</p>
-<li>:technologist: I'm a full stack web development student at TRYBE.</li>
+<li>:technologist: I'm a full stack web development student at Trybe.</li>
 <li>:brazil: I'm from João Pessoa, PB - Brazil.</li>
 <li>:weight_lifting_woman: I really enjoy working out</li>
 <li>:hourglass: Always learning a new thing</li>
