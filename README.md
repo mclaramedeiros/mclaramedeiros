@@ -2,6 +2,10 @@
 <p>About me</p>
 <li>:technologist: I'm a full stack web development student at TRYBE.</li>
 <li>:brazil: I'm from João Pessoa, PB - Brazil.</li>
+<li>:people_hugging: I'm very friendly</li>
+<li>:weight_lifting_woman: I really enjoy working out</li>
+<li>:hourglass: Always learning a new thing</li>
+
 
  ##
 
