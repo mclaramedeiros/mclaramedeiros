@@ -1,10 +1,12 @@
 <h1>Hello, I'm Clara Medeiros</h1>
+<h2>Welcome to my Github profile.</h2>
 <p>About me</p>
+<p>I am recently graduating in Web Development at Trybe looking for opportunities to improve my knowledge in technologies I already know and can learn.</p>
 <li>:technologist: I'm a full stack web development student at TRYBE.</li>
 <li>:brazil: I'm from João Pessoa, PB - Brazil.</li>
-<li>:people_hugging: I'm very friendly</li>
 <li>:weight_lifting_woman: I really enjoy working out</li>
 <li>:hourglass: Always learning a new thing</li>
+
 
 
  ##
@@ -13,7 +15,10 @@
   <a href="https://github.com/mclaramedeiros">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mclaramedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
- 
+ <div>
+<a href="https://github.com/mclaramedeiros">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclaramedeiros&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  ##
  
  <div style="display: inline_block"><br>
