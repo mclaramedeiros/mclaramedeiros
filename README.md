@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://myoctocat.com/assets/images/base-octocat.svg">
+<img align="left" width="250px" style="margin-top:-20px" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
 <h1>Hello, I'm Clara Medeiros</h1>
 <p>Welcome to my Github profile.</p>
