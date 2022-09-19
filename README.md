@@ -3,7 +3,7 @@
 <h1>Hello, I'm Clara Medeiros</h1>
 <p>Welcome to my Github profile.</p>
 
-<p>About me</p>
+<h3>About me</h3>
 <p>I am recently graduating in Web Development at Trybe looking for opportunities to improve my knowledge in technologies I already know and can learn.</p>
 <li>:technologist: I'm a full stack web developer.</li>
 <li>:brazil: I'm from João Pessoa, PB - Brazil.</li>
